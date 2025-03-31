@@ -3,5 +3,5 @@
 ##### 메인페이지
 ![image](https://github.com/user-attachments/assets/ba62cdd5-9272-424a-a430-92b0e5bf883a)
 
-##### test
-[![Video Label](https://tv.kakao.com/v/450108898.img)](https://tv.kakao.com/v/450108898)
+##### 회원가입, 로그인
+https://github.com/user-attachments/assets/132b2ac8-658f-44a2-8acc-ddbabca74b74
