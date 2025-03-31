@@ -4,4 +4,4 @@
 ![image](https://github.com/user-attachments/assets/ba62cdd5-9272-424a-a430-92b0e5bf883a)
 
 ##### test
-[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://tv.kakao.com/v/450108898)
+[![Video Label](https://tv.kakao.com/v/450108898.img)](https://tv.kakao.com/v/450108898)
